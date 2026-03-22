@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Browser Chaos 67",
+    "version": "1.1",
+    "icons":{"128":"skull.png"},
+    "description": "Chaos  in your browser",
+    "permissions":["storage", "alarms", "tabs" ],
+    "action": {"default_popup": "popup.html"},
+    "content_scripts":[
+        {"matches": ["<all_urls>"],
+        "js": ["content.js"]
+    }
+    ],
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    },
+    "web_accessible_resources": [{
+        "resources": ["skull.png", "phonk.mp3", "phonk1.mp3", "phonk2.mp3", "phonk3.mp3"],
+        "matches":["<all_urls>"]
+    }],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
+
