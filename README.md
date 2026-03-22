@@ -65,4 +65,4 @@ To install Browser Chaos 67 from source you need to do this:
 
 ```bash
 
-git clone https://github.com/YOUR_USERNAME/browser-chaos-67.git
+https://github.com/dshravank11-lgtm/browser-chaos
