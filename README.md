@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 
 # Browser Chaos 67
 
