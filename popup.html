@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {width: 280px; 
+            font-family: 'Courier New', Courier, monospace; 
+            padding: 11px; 
+            background: #2e6241; 
+            color: #fff;
+            margin: 0;
+        }
+        h3 {margin-top: 0;
+            border-bottom: 2px dashed #444;
+            padding-bottom: 5px;
+        }
+        button {width: 100%; 
+            padding: 10px; 
+            cursor: pointer; 
+            background: #444; 
+            color: #fff;
+            border: 2px solid #1a3a2a;
+            font-family: inherit;
+            font-weight: bold;
+            margin-top: 10px;
+            transition: all 0.2s;
+        }
+        button:hover {background: #666;
+            border-color: #2e6241;
+        }
+        input {width: 90%;
+            padding: 8px;
+            background: #1a3a2a;
+            border: 2px solid #444;
+            color: #fff;
+            font-family: inherit;
+        }
+        p {font-size: 12px;
+            color: #aaa;
+        }
+        .instant-btn {background: #8b0000;
+            border-color: #ff4444;
+            margin-top: 15px;
+        }
+        .instant-btn:hover {background: #aa0000;
+        }
+    </style>
+</head>
+<body>
+    <h3> Settings </h3>
+    <p>skull effect interval in minutes:</p>
+    <input type="number" id="mins" value="5" min="1">
+    <button id="save">set skull edit timer</button>
+    <button id="instantSkull" class="instant-btn">Instant Skull</button>
+    <div id="status"></div>
+    <p style="margin-bottom:0;">hint: type "67" on any page...</p>
+    <script src="popup.js"></script>
+</body>
+</html>
