@@ -1,5 +1,5 @@
 
-# Browser Chaos 67
+# Browser Chaos 
 
 Turn your browser into a chaotic playground with this extension. 
 
@@ -15,11 +15,11 @@ There is a 10% chance you are redirected to a page where you will get rickrolled
 
 ### The Secret Code
 
-If you type 67 on any webpage the whole page will flip down. It is a cool feature of Browser Chaos 67.
+If you type 67 on any webpage the whole page will flip down. It is a cool feature of Browser Chaos.
 
 ### The Skull Effect
 
-Here are a few things that the Skull Effect does in Browser Chaos 67:
+Here are a few things that the Skull Effect does in Browser Chaos :
 
 The skull will be at the bottom of the page and will appear above everything except ads
 Music is played at random from 4 possible tracks
@@ -53,12 +53,12 @@ You can choose how often it happens. the default interval is 5 minutes
 <img width="734" height="480" alt="Screenshot 2026-03-22 153747" src="https://github.com/user-attachments/assets/819bfcd8-7c45-42b2-aaca-f87e844468e1" />
 
 
-## How to Install Browser Chaos 67
+## How to Install Browser Chaos 
 not yet
 
 ### From Source
 
-To install Browser Chaos 67 from source you need to do this:
+To install Browser Chaos from source you need to do this:
 
 1. Clone this repository:
 
