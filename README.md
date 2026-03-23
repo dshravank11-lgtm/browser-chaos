@@ -33,12 +33,11 @@ it makes the page applying a grayscale filter, like an edit on YouTube or Tiktok
 This is what happens when you use Instant Skull Mode in Browser Chaos 67:
 
 Your screen will freeze for 3 seconds
-Then, a skull will. Shake around.
-It will play some music loud.
+Then, a skull will appear with some music in the background for 5 seconds.
 
 ### Mining Mode
 
-To activate Mining Mode in Browser Chaos 67 you just need to type minecraft.
+To activate Mining Mode in Browser Chaos you just need to type minecraft.
 
 It will create a grid of blocks that you can break.
 You can click on each block to break it. inspired by google's Minecraft easter egg
